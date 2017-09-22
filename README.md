@@ -1,7 +1,4 @@
 # radiation-source-localization-dataset
-GPS-denied Radiation Source Localization Open Dataset
-
-# radiation-source-localization-dataset
 Dataset release for the ICRA 2018 paper titled "Radiation Source Localization in GPS–denied Environments
 using Aerial Robots"
 
